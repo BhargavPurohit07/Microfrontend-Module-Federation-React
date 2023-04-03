@@ -1,7 +1,7 @@
 # Microfrontend-Module-Federation-React
 microfrontend that communicate react to react application with shared data. currently i shared the auth demo. 
 
-# point keep in mind
+# Point's that keep in mind
 ```
 - remote means who share the code
 - if remote code is change no need to redeploy the host code
