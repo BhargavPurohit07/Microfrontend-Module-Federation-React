@@ -4,6 +4,7 @@ microfrontend that communicate react to react application with shared data. curr
 # point keep in mind
 ```
 - remote means who share the code
+- if remote code is change no need to redeploy the host code
 - host means who uses the code
 - both can be remote or host no restrication 
 - we can commuicate react with vue or any other framework no restrication 
